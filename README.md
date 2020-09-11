@@ -1,16 +1,20 @@
-### Hi there 👋
+## Hello there...
 
-<!--
-**PaulioRandall/pauliorandall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Im a predominantly self-taught programmer and software engineer currently seeking a constructive working environment to support myself and my exploration of complexity and effective leadership. My primary selling point is my abstract and objective view points and, while I have personal preferences, I have a propensity to let the voice of the under dog be heard.
 
-Here are some ideas to get you started:
+My wider career purpose is to combine minimalism, empiricism, and agile thinking to remove redundant complexity, accelerate development, and effectively capitalise on individual and team potential through alternative leadership and the cultivation of supportive environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have 10+ years of systems development experience including 6 years across two universities and 4 years in industry. I would describe myself as strong willed and intrinsically motivated with an affection for experimentation and counterintuitive ideas.
+
+Interests | Highlighted Skills
+:--- | :---
+Reading | Go, Java, Kotlin, C, C++
+Walking/Hiking | HTML, JavaScript, ~CSS
+Running | Web APIs
+Nature | Programming Language Theory
+Small Group Activities | Linux & Windows Systems
+Science | Cross Platform Mobile Development
+Statistics, Uncertainty, & Risk | Agile Development Methods
+Learning & Education | Continuous Integration
+Open Source Development | Automation Tools & Concepts
+
