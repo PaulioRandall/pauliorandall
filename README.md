@@ -1,12 +1,13 @@
 ## Hello there...
 
-I'm a predominantly self-taught software engineer with a wider career purpose to combine minimalism, empiricism, and agile thinking to:
-- Grow services and systems that actually deliver value;
-- Continuously optimise working practices to reduce waste and accelerate development;
-- Incorporate behavioral science, statistics, and skeptic thinking to improve design and decision making.
+*"Trust no one, especially yourself!"*
 
-I'd describe myself as:
-- Intrinsically motivated;
-- Conscientiousness;
-- Fast, interative, and incremental worker;
-- Highly affectionate towards experimentation and counterintuitive ideas.
+My values were born from haste, minimilism, empiricism, and skepticism. I'm also highly affectionate towards experimentation and counterintuitive ideas. I've amassed many ideas that go aginst popular opinion, or in otherwords, my experience has taught me that *"there is no wisdom in crowds"*.
+
+What do I want to bring to the table:
+
+- processes optimised by outcomes
+- speed: build things fast, very fast, and then fix the mistakes quickly
+- the behavioral sciences
+- naked statistics
+- visualisations of everything
