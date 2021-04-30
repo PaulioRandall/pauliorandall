@@ -7,7 +7,7 @@ My values were born from haste, minimilism, empiricism, and skepticism. I'm also
 What do I want to bring to the table?
 
 - processes optimised by outcomes
-- speed: build things fast, very fast, and then fix the mistakes quickly
+- speed: build fast, fix faster
 - the behavioral sciences
 - naked statistics
 - visualisations of everything
