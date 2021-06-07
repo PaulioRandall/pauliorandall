@@ -9,5 +9,4 @@ What do I want to bring to the table?
 - processes optimised by outcomes
 - speed: build fast, fix faster
 - the behavioral sciences
-- naked statistics
 - visualisations of everything
