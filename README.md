@@ -1,5 +1,5 @@
-# And so it begins...
+# Apprentice Data Analyst
 
-I specialise in the cultivation of elegant services by virtue of an adaptive mentality, empirical mindset, and lean means.
+I specialise in the cultivation of elegant and humble services by virtue of an adaptive mentality, empirical mindset, and lean means.
 
-_"The object of life is not to be on the side of the majority, but to escape finding oneself in the ranks of the insane"_ - Marcus Aurelius
+_"To survive you must adapt faster than your surroundings can change"_ - Jack Matson
