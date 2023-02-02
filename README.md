@@ -1,4 +1,4 @@
-# Apprentice Data Analyst & Senior Software Engineer
+# Senior Software Engineer & Apprentice Data Analyst
 
 I specialise in the cultivation of elegant and humble services by virtue of an adaptive mentality, empirical mindset, and lean means.
 
