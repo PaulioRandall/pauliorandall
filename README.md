@@ -1,6 +1,6 @@
 # Research, Data, Design, & Engineering
 
-I specialise in the cultivation of humble and elegant services by virtue of an empirical mindset and lean.
+I specialise in the cultivation of humble and elegant services by virtue of an empirical mindset and lean means.
 
 - **Research**: User research, Small tools
 - **Design**: User centered, Minimalist
